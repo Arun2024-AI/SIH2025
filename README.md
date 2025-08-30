@@ -1,15 +1,11 @@
 
 https://github.com/garyzava/chat-to-database-chatbot.git
 
-
+IIT Hyderabad 👉 INGRES (https://ingres.iith.ac.in/home?utm_source=chatgpt.com)
+.
 
 # 💧 AI-driven ChatBOT for INGRES (Virtual Assistant)
 
-## 📌 Problem Statement
-- **PSID:** SIH25066  
-- **Ministry:** Ministry of Jal Shakti  
-- **Category:** Software  
-- **Theme:** Smart Automation  
 
 Develop an **AI-driven chatbot** for **INGRES** that acts as a **Virtual Assistant**.  
 The chatbot should handle FAQs, process natural language queries, integrate with INGRES data,  
