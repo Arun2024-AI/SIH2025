@@ -1,7 +1,7 @@
 
 https://github.com/garyzava/chat-to-database-chatbot.git
 
-IIT Hyderabad 👉 INGRES (https://ingres.iith.ac.in/home?utm_source=chatgpt.com)
+**IIT Hyderabad 👉 INGRES (https://ingres.iith.ac.in/home?utm_source=chatgpt.com)**
 .
 
 # 💧 AI-driven ChatBOT for INGRES (Virtual Assistant)
