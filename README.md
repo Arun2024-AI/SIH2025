@@ -64,7 +64,7 @@ The chatbot will help automate tasks such as answering FAQs, generating reports,
 
 ## 🚀 Roadmap
 
-### **Phase 1: Foundation (0 → Beginner)**
+### **Phase 1: Foundation (Beginner)**
 - Understand problem statement & INGRES system.
 - Define chatbot goals (FAQs, reports, data queries).
 - Prepare dataset (FAQ list, intents, sample queries).
